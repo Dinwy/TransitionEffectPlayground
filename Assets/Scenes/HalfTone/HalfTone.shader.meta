@@ -3,8 +3,7 @@ guid: b08a6c658fd92ad45a8faa03f7e77bcf
 ShaderImporter:
   externalObjects: {}
   defaultTextures:
-  - _Diffuse: {fileID: 2800000, guid: e418ed550f6e9d34eae17c4ea329fbbe, type: 3}
-  - _BackgroundImage: {fileID: 2800000, guid: e418ed550f6e9d34eae17c4ea329fbbe, type: 3}
+  - _Diffuse: {fileID: 2800000, guid: fc34e15bcb9bc2f48ae4a5b1a35b5733, type: 3}
   nonModifiableTextures: []
   userData: 
   assetBundleName: 

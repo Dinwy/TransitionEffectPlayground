@@ -14,5 +14,8 @@ For Unity3D, playing with Transition effect by using particle system.
 
 <Image src="./Images/bubble_additive_dof.gif">
 
+3. Halftone effect
+<Image src="./Images/half_tone.gif">
+
 # LICENSE
 MIT
