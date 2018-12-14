@@ -3,7 +3,7 @@
 For Unity3D, playing with Transition effect by using particle system.
 
 ## Version
-- Unity2018.2.18f1
+- Unity2018.3.0f1
 
 ## Effect list
 1. Bubble particle effect
